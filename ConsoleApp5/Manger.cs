@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace ConsoleApp5
 {
     internal class Manger
-    {
+    {//manger
     }
 }
